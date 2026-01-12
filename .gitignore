@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*_no_bg.png
+*_no_background.png
+results.json
+batch_results.json
+product_results.json
+processed_images/
+
+# Model files (downloaded automatically)
+*.pth
+*.onnx
+*.pb
+
+# Logs
+*.log
